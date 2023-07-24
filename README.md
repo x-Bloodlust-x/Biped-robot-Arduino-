@@ -1,5 +1,10 @@
 # Biped-robot-arduino-project-
-Here is my code for a biped robot that I made using the arduino 
+
+Here is a link to the video that I made of the project:
+https://www.youtube.com/watch?v=hyNF8KC1o14&t=7s
+
+Better footage of its motion:
+https://www.youtube.com/watch?v=mndZKeckFIY
 
 Libraries: The code includes two libraries: "Adafruit_PWMServoDriver.h" and "Wire.h". The "Adafruit_PWMServoDriver.h" library is used to control the servo motors via a servo motor driver, and the "Wire.h" library is used for I2C communication.
 
